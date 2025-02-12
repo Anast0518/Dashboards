@@ -18,7 +18,7 @@
 4. Статья расходов.
 Для построения диаграммы "Статьи расходов по регионам" была сделана своная таблица (Лист 2), в ней цветом выделены минимальные и максимальные значения. Рядом представлена получившаяся диаграмма.
 <p align = 'center'>
- <img src = 'https://github.com/Anast0518/Dashboards/edit/main/3yQST2TbUT0.jpg'>
+ <img src = "https://github.com/Anast0518/Dashboards/blob/main/diagramm_excel.png">
 </p>
  Рассмотрим данные data.csv. Рассмотрим имеющиеся поля:
 1. event_id - идентификатор урока,
@@ -32,4 +32,4 @@
 <p align = 'center'>
  <img src = "https://github.com/Anast0518/Dashboards/blob/main/vizualiz.png">
 </p>
- 
+Также к набору данных data.csv приложен файл с возможными sql запросами. 
