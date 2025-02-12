@@ -30,6 +30,6 @@
 7. attendance_id - идентификатор строки.
 На основе этих данных построен дашборд с помощью DataLens из диаграмм и таблиц, таких как "Посещаемость по датам", "Посещаемость у каждого преподавателя" и т.д.
 <p align = 'center'>
- <img src = 'https://github.com/Anast0518/Dashboards/edit/main/vizualiz.png'>
+ <img src = "https://github.com/Anast0518/Dashboards/blob/main/vizualiz.png">
 </p>
  
