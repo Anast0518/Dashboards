@@ -9,7 +9,7 @@
 6. Число привлеченных покупателей.
 На основе этого набора построен ряд чартов в Power BI, таких как "Число привлеченных покупателей по каналам продвижения".
 <p align = 'center'>
- <img src = 'https://github.com/Anast0518/Dashboards/edit/main/vq_Sy0bU0_0.png' alt = "dashboard">
+ <img src = "https://github.com/Anast0518/Dashboards/blob/main/dashboard_photo.png" alt = "dashboard">
 </p>
 Рассмотрим данные Набор_данных__Excel.xlsx. В таблице есть следующие поля (Лист 1):
 1. Регион;
